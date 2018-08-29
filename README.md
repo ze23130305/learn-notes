@@ -2,7 +2,7 @@
 所有学习笔记地址
 
 ## es6部分
-[对象的扩展](https://www.zybuluo.com/a224411/note/649004)
+[对象的扩展](https://www.zybuluo.com/a224411/note/649004)  
 [变量声明let和const](https://www.zybuluo.com/a224411/note/651308)
 [变量的解构赋值：“模式匹配”](https://www.zybuluo.com/a224411/note/651425)
 [字符串的扩展](https://www.zybuluo.com/a224411/note/665830)
