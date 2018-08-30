@@ -37,6 +37,7 @@
 [字典](https://www.zybuluo.com/a224411/note/1141308)  
 [栈（先进先出）和队列（先进后出）](https://www.zybuluo.com/a224411/note/1141268)  
 [二叉搜索树算法](https://www.zybuluo.com/a224411/note/1139770)  
+[排序算法](https://www.zybuluo.com/a224411/note/1265884)  
 
 ## 4.JS
 [函数式编程](https://www.zybuluo.com/a224411/note/1264917)  
