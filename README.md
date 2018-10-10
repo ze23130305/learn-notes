@@ -50,6 +50,7 @@
 ## 5.Vue
 [组件](https://www.zybuluo.com/a224411/note/800593)  
 [vue基础介绍](https://www.zybuluo.com/a224411/note/761239)  
+[vue的响应式原理及注意事项](https://www.zybuluo.com/a224411/note/1305332)  
 
 ## 6.JS数据结构
 [链表](https://www.zybuluo.com/a224411/note/1207037)  
